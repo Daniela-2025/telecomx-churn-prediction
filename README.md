@@ -107,3 +107,7 @@ Todavía estoy aprendiendo, pero este challenge me ayudó mucho a entender mejor
 
 ¡Gracias por revisar este proyecto! 🙂
 
+Autor : Danny Andrew Rimac Roque
+Correo : danny.andrew.r.r@gmail.com
+
+
