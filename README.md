@@ -1,4 +1,4 @@
-# 📊 Telecom X – Predicción de Cancelación de Clientes (Churn)
+# 📊 Telecom X PARTE 2 – Predicción de Cancelación de Clientes (Churn)
 
 ## 👋 Sobre este proyecto
 
